@@ -1,0 +1,8 @@
+{
+  "name": "loginSocial",
+  "integrations": {
+    "capacitor": {},
+    "cordova": {}
+  },
+  "type": "angular"
+}
